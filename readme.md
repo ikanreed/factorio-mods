@@ -1,6 +1,6 @@
 ## Factorio mods by BarryKun
 
-I made one change requested by a something awful forums member
+this fork made one change requested by a something awful forums member
 
 #### build zip file
 
